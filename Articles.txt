@@ -1,0 +1,6 @@
+A Proposal for Shared Dictionary
+Compression over HTTP
+Authors: Jon Butler, Wei-Hsin Lee, Bryan McQuade, Kenneth Mixter
+Google, Inc.
+Last Update : September 8, 2008
+http://lists.w3.org/Archives/Public/ietf-http-wg/2008JulSep/att-0441/Shared_Dictionary_Compression_over_HTTP.pdf
