@@ -1,5 +1,4 @@
-A Proposal for Shared Dictionary
-Compression over HTTP
+A Proposal for Shared Dictionary Compression over HTTP
 Authors: Jon Butler, Wei-Hsin Lee, Bryan McQuade, Kenneth Mixter
 Google, Inc.
 Last Update : September 8, 2008
@@ -9,3 +8,6 @@ An efficient K-means algorithm for Massive Data
 Marco Capó, Aritz Pérez and José A. Lozano
 May 11, 2016
 https://arxiv.org/pdf/1605.02989.pdf
+
+Why (and How) Avoid Orthogonal Procrustes in Regularized Multivariate Analysis Sergio Muñoz-Romero, Vanessa Gómez-Verdejo, Jerónimo Arenas-García
+https://arxiv.org/pdf/1605.02674.pdf
