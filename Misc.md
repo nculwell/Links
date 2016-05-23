@@ -1,3 +1,7 @@
+# Assorted
+
+http://agner.org/optimize/
+
 # DOS batch scripting
 
 - http://www.computerhope.com/msdos.htm
