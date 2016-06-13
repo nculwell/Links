@@ -11,3 +11,6 @@ http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf
 
 Least Squares Anomaly Detection
 http://air.ug/~jquinn/software/lsanomaly.html
+
+TensorFlow tutorials
+https://github.com/sjchoi86/Tensorflow-101
